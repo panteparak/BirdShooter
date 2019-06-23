@@ -11,6 +11,7 @@ public class Bird : MonoBehaviour
     private Rigidbody2D rigidBody;
     private Animator animator;
     private SceneLoader sceneLoader;
+    private AudioSource[] audioSource;
     private static readonly int Flap = Animator.StringToHash("Flap");
     private static readonly int Die = Animator.StringToHash("Die");
 
@@ -19,6 +20,7 @@ public class Bird : MonoBehaviour
         rigidBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         sceneLoader = GetComponent<SceneLoader>();
+        audioSource = GetComponents<AudioSource>();
         rigidBody.freezeRotation = true;
         rigidBody.isKinematic = true;
         GameControl.Instance.GameNotStart();
@@ -50,6 +52,7 @@ public class Bird : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            audioSource[0].Play();
             animator.SetTrigger(Flap);
             rigidBody.velocity = Vector2.zero;
             rigidBody.AddForce(new Vector2(0, upForce));
@@ -65,7 +68,11 @@ public class Bird : MonoBehaviour
             Debug.Log("Boundary Hit");
             return;
         }
-        
+
+        if (!audioSource[1].isPlaying)
+        {
+            audioSource[1].Play();
+        }
         animator.SetTrigger(Die);
         GameControl.Instance.BirdDied();
     }

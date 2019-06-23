@@ -44,16 +44,17 @@ public class ArrowSpawnner : MonoBehaviour
 
     private float SpawnRate()
     {
+        const float BASE_SPEED = 1.95f;
         long currentScore = GameControl.Instance.getScore();
 
-        if (currentScore == 0L)
+        if (currentScore/10 == 2L)
         {
-            return 3f;
+            return BASE_SPEED;
         }
         else
         {
-            float spawn = 1 - (3f * (currentScore / 1000f));
-            return Math.Min(spawn, 0.8f);
+            float spawn = Math.Abs(BASE_SPEED - ((currentScore / 200f)));
+            return Math.Max(spawn, 0.8f);
         }
     }
 }

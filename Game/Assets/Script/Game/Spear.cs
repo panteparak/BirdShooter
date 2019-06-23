@@ -17,7 +17,8 @@ public class Spear : MonoBehaviour
     void Update()
     {
         var position = transform.position;
-        rigidBody.MovePosition(new Vector2 ((position.x - 0000.1f), position.y));
+        float speed = GameControl.Instance.getScore() / 1000;
+        rigidBody.MovePosition(new Vector2 ((position.x - Math.Max(0.12f, speed)), position.y));
     }
 
     private void OnTriggerEnter2D(Collider2D other)

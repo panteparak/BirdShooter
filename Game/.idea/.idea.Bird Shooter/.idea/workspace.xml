@@ -1,119 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abe7692b-cd93-47d6-97c7-0632c21d3e33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Bird Shooter/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Bird.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Bird.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Die.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Die.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Flap.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Flap.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/Bird2.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/Bird2.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/bird_first1.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/bird_first1.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Fonts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Fonts/LuckiestGuy.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Fonts/LuckiestGuy.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground-cropped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground-cropped.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/spear-309691.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Images/spear-309691.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/2d_fly_ground_by_ahmedaljaf_d8ylsax-fullview.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/2d_fly_ground_by_ahmedaljaf_d8ylsax-fullview.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/Spear.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/Spear.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Scenes/Game.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Scenes/Game.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/ArrowSpawnner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/ArrowSpawnner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Bird.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Bird.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/GameControl.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/GameControl.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/PassthroughTrigger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/PassthroughTrigger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Score.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Score.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Singleton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Singleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Spear.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Script/Spear.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/BirdHero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/BirdHero.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/ColumnSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/ColumnSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/GrassThinSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/GrassThinSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/SkyTileSprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/SkyTileSprite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/AudioManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/DynamicsManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/EditorSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/InputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/NetworkManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/PresetManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/QualitySettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/TagManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/TimeManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/VFXManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectSettings/XRSettings.asset" beforeDir="false" />
-    </list>
+    <list default="true" id="abe7692b-cd93-47d6-97c7-0632c21d3e33" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +9,87 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Bird.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+              <folding>
+                <marker date="1561309437518" expanded="false" signature="6:92" ph="..." />
+                <marker date="1561309437518" expanded="true" signature="127:1956" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="490:832" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="859:1253" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="915:1015" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1066:1106" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1159:1247" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1283:1538" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1334:1532" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1590:1954" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1699:1778" ph="{...}" />
+                <marker date="1561309437518" expanded="true" signature="1818:1873" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Spear.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+              <folding>
+                <marker date="1561312730235" expanded="false" signature="6:92" ph="..." />
+                <marker date="1561312730235" expanded="true" signature="128:753" ph="{...}" />
+                <marker date="1561312730235" expanded="true" signature="223:321" ph="{...}" />
+                <marker date="1561312730235" expanded="true" signature="340:554" ph="{...}" />
+                <marker date="1561312730235" expanded="true" signature="607:751" ph="{...}" />
+                <marker date="1561312730235" expanded="true" signature="663:736" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Countdown.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <marker date="1561311803893" expanded="false" signature="6:114" ph="..." />
+                <marker date="1561311803893" expanded="true" signature="154:1161" ph="{...}" />
+                <marker date="1561311803893" expanded="true" signature="433:498" ph="{...}" />
+                <marker date="1561311803893" expanded="true" signature="556:1159" ph="{...}" />
+                <marker date="1561311803893" expanded="true" signature="605:718" ph="{...}" />
+                <marker date="1561311803893" expanded="true" signature="786:1153" ph="{...}" />
+                <marker date="1561311803893" expanded="true" signature="1010:1143" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Game/ArrowSpawnner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+              <folding>
+                <marker date="1561312890857" expanded="false" signature="6:127" ph="..." />
+                <marker date="1561312890857" expanded="true" signature="171:1363" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="371:614" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="404:608" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="646:981" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="736:782" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="874:952" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="1012:1361" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="1155:1206" ph="{...}" />
+                <marker date="1561312890857" expanded="true" signature="1219:1355" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -142,20 +110,24 @@
       <find>Game over</find>
       <find>UpArr</find>
       <find>Game Over</find>
+      <find>SetTrigger</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/9d/4dbfd83d/Collision2D.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/ea/69fece57/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/61/5e83888c/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Game/Assets/Script/MainMenu/MenuScript.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/fd/9bfbbb3a/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/84/a79d4948/Time.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/6c/5a0abd94/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/61/5e83888c/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Game/Spear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/9d/4dbfd83d/Collision2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Game/Countdown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/fd/9bfbbb3a/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/bf/a5aa3b1f/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Game/ArrowSpawnner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Game/Bird.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/ea/69fece57/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/6c/5a0abd94/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -177,6 +149,8 @@
         <option value="$PROJECT_DIR$/Assets/Script/MainMenu/MenuScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Game/Bird.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Game/Countdown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Game/Spear.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Game/ArrowSpawnner.cs" />
       </list>
     </option>
   </component>
@@ -198,6 +172,26 @@
     </navigator>
     <panes>
       <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Game" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
@@ -255,12 +249,12 @@
       <updated>1561195471374</updated>
       <workItem from="1561195473780" duration="934000" />
       <workItem from="1561204775838" duration="22615000" />
-      <workItem from="1561297582202" duration="17000" />
+      <workItem from="1561297582202" duration="3084000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23566000" />
+    <option name="totallyTimeSpent" value="26633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,6 +267,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -522,20 +517,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Script/PassthroughTrigger.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/GameControl.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/Bird.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Bird.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Countdown.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Game/GameControl.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -551,5 +532,76 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Game/Assets/Script/MainMenu/MenuScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Countdown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <marker date="1561311803893" expanded="false" signature="6:114" ph="..." />
+            <marker date="1561311803893" expanded="true" signature="154:1161" ph="{...}" />
+            <marker date="1561311803893" expanded="true" signature="433:498" ph="{...}" />
+            <marker date="1561311803893" expanded="true" signature="556:1159" ph="{...}" />
+            <marker date="1561311803893" expanded="true" signature="605:718" ph="{...}" />
+            <marker date="1561311803893" expanded="true" signature="786:1153" ph="{...}" />
+            <marker date="1561311803893" expanded="true" signature="1010:1143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Spear.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+          <folding>
+            <marker date="1561312730235" expanded="false" signature="6:92" ph="..." />
+            <marker date="1561312730235" expanded="true" signature="128:753" ph="{...}" />
+            <marker date="1561312730235" expanded="true" signature="223:321" ph="{...}" />
+            <marker date="1561312730235" expanded="true" signature="340:554" ph="{...}" />
+            <marker date="1561312730235" expanded="true" signature="607:751" ph="{...}" />
+            <marker date="1561312730235" expanded="true" signature="663:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Bird.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <marker date="1561309437518" expanded="false" signature="6:92" ph="..." />
+            <marker date="1561309437518" expanded="true" signature="127:1956" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="490:832" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="859:1253" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="915:1015" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1066:1106" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1159:1247" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1283:1538" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1334:1532" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1590:1954" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1699:1778" ph="{...}" />
+            <marker date="1561309437518" expanded="true" signature="1818:1873" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/ArrowSpawnner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+          <folding>
+            <marker date="1561312890857" expanded="false" signature="6:127" ph="..." />
+            <marker date="1561312890857" expanded="true" signature="171:1363" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="371:614" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="404:608" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="646:981" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="736:782" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="874:952" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="1012:1361" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="1155:1206" ph="{...}" />
+            <marker date="1561312890857" expanded="true" signature="1219:1355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
