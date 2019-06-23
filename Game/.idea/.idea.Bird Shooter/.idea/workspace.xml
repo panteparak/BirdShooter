@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abe7692b-cd93-47d6-97c7-0632c21d3e33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.Bird Shooter/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Bird.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Bird.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Die.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Die.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Flap.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Flap.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/Bird2.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/Bird2.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/bird_first1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Animation/NewBird/bird_first1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 1/bird_first3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 2/bird_second3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 3/bird_third_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Birds Pack/Bird 4/bird_fourth3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Fonts/LuckiestGuy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Fonts/LuckiestGuy.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground-cropped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground-cropped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images/ground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images/spear-309691.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Images/spear-309691.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/2d_fly_ground_by_ahmedaljaf_d8ylsax-fullview.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/2d_fly_ground_by_ahmedaljaf_d8ylsax-fullview.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/Spear.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Prefabs/Spear.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Scenes/Game.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Scenes/Game.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/ArrowSpawnner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/ArrowSpawnner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Bird.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Bird.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/GameControl.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/GameControl.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/PassthroughTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/PassthroughTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Score.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Score.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Singleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Spear.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Script/Spear.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/BirdHero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/BirdHero.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/ColumnSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/ColumnSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/GrassThinSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/GrassThinSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/SkyTileSprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Sprites/SkyTileSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/NetworkManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/XRSettings.asset" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>incrementS</find>
+      <find>GameController</find>
+      <find>Boundary</find>
+      <find>increment</find>
+      <find>incrementSc</find>
+      <find>Boun</find>
+      <find>SerializeField</find>
+      <find>ResetGame</find>
+      <find>reload</find>
+      <find>Died</find>
+      <find>Increment</find>
+      <find>Text</find>
+      <find>SceneLoader</find>
+      <find>Debug.log</find>
+      <find>Game over</find>
+      <find>UpArr</find>
+      <find>Game Over</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/9d/4dbfd83d/Collision2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/ea/69fece57/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/61/5e83888c/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Game/Assets/Script/MainMenu/MenuScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/fd/9bfbbb3a/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/84/a79d4948/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/6c/5a0abd94/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/bf/a5aa3b1f/Component.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Storage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ScrollingObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/RepeatingBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Despawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Spear.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ArrowSpawnner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PassthroughTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Bird.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Countdown.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MainMenu/MenuScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Game/Bird.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Game/Countdown.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Bird Shooter/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe7692b-cd93-47d6-97c7-0632c21d3e33" name="Default Changelist" comment="" />
+      <created>1561195471374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561195471374</updated>
+      <workItem from="1561195473780" duration="934000" />
+      <workItem from="1561204775838" duration="22615000" />
+      <workItem from="1561297582202" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23566000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41122448" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ScrollingObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/RepeatingBackground.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/9d/4dbfd83d/Collision2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Despawn.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/bf/a5aa3b1f/Component.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/84/a79d4948/Time.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/61/5e83888c/Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="193" column="25" selection-start-line="193" selection-start-column="25" selection-end-line="193" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/fd/9bfbbb3a/Quaternion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B14123E-EC64-49DC-BDCE-6FE247C0F416/ea/69fece57/Transform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="158" column="17" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A12B6BAE-CE58-40D4-80E0-869A49672B2F/6c/5a0abd94/Rigidbody2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="285" column="43" selection-start-line="285" selection-start-column="43" selection-end-line="285" selection-end-column="43" />
+          <folding>
+            <marker date="1561290207546" expanded="true" signature="0:349" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1561290207546" expanded="false" signature="357:531" ph="..." />
+            <marker date="1561290207546" expanded="true" signature="554:34889" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="559:654" ph="///   &lt;para&gt;Rigidbody physics component for 2D sprites.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="800:34887" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="809:895" ph="///   &lt;para&gt;The position of the rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="923:1120" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="939:1041" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="1051:1114" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="1126:1212" ph="///   &lt;para&gt;The rotation of the rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="1355:1556" ph="///   &lt;para&gt;Sets the rotation of the Rigidbody2D to angle (given in degrees).&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="1597:1646" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="1792:2042" ph="///   &lt;para&gt;Sets the rotation of the Rigidbody2D to the z-axis rotation extracted from the full 3D rotation.&lt;/par ... " />
+            <marker date="1561290207546" expanded="true" signature="2091:2148" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="2244:2314" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="2320:2490" ph="///   &lt;para&gt;Moves the rigidbody to position.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="2537:2597" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="2603:2794" ph="///   &lt;para&gt;Rotates the Rigidbody to angle (given in degrees).&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="2836:2886" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="3034:3262" ph="///   &lt;para&gt;An overload of MoveRotation that allows a full 3D rotation as an argument.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="3312:3370" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="3468:3539" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="3545:3634" ph="///   &lt;para&gt;Linear velocity of the rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="3662:3859" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="3678:3780" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="3790:3853" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="3865:3960" ph="///   &lt;para&gt;Angular velocity in degrees per second.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="4110:4277" ph="///   &lt;para&gt;Should the total rigid-body mass be automatically calculated from the Collider2D.density of attached  ... " />
+            <marker date="1561290207546" expanded="true" signature="4422:4500" ph="///   &lt;para&gt;Mass of the Rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="4639:4780" ph="///   &lt;para&gt;The PhysicsMaterial2D that is applied to all Collider2D attached to this Rigidbody2D.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="4972:5079" ph="///   &lt;para&gt;The center of mass of the rigidBody in local space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="5111:5316" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="5127:5233" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="5243:5310" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="5322:5435" ph="///   &lt;para&gt;Gets the center of mass of the rigidBody in global space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="5472:5605" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="5488:5599" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="5611:5700" ph="///   &lt;para&gt;The rigidBody rotational inertia.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="5842:5918" ph="///   &lt;para&gt;Coefficient of drag.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="6057:6141" ph="///   &lt;para&gt;Coefficient of angular drag.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="6287:6398" ph="///   &lt;para&gt;The degree to which this object is affected by gravity.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="6545:6648" ph="///   &lt;para&gt;The physical behaviour type of the Rigidbody2D.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="6945:7069" ph="///   &lt;para&gt;Should kinematickinematic and kinematicstatic collisions be allowed?&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="7227:7337" ph="///   &lt;para&gt;Should this rigidbody be taken out of physics control?&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="7365:7574" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="7381:7456" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="7466:7568" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="7580:7684" ph="///   &lt;para&gt;Should the rigidbody be prevented from rotating?&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="7952:8072" ph="///   &lt;para&gt;Controls whether physics will change the rotation of the object.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="8220:8361" ph="///   &lt;para&gt;Controls which degrees of freedom are allowed for the simulation of this Rigidbody2D.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="8524:8608" ph="///   &lt;para&gt;Is the rigidbody &quot;sleeping&quot;?&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="8700:8781" ph="///   &lt;para&gt;Is the rigidbody &quot;awake&quot;?&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="8870:8953" ph="///   &lt;para&gt;Make the rigidbody &quot;sleep&quot;.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="9040:9141" ph="///   &lt;para&gt;Disables the &quot;sleeping&quot; state of a rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="9256:9394" ph="///   &lt;para&gt;Indicates whether the rigid body should be simulated or not by the physics system.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="9575:9674" ph="///   &lt;para&gt;Physics interpolation used between updates.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="9841:9953" ph="///   &lt;para&gt;The sleep state that the rigidbody will initially be in.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="10112:10244" ph="///   &lt;para&gt;The method used by the physics engine to check if two objects have collided.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="10420:10538" ph="///   &lt;para&gt;Returns the number of Collider2D attached to this Rigidbody2D.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="10642:11077" ph="///   &lt;para&gt;Checks whether the collider  is touching any of the collider(s) attached to this rigidbody or not.&lt;/p ... " />
+            <marker date="1561290207546" expanded="true" signature="11208:11844" ph="///   &lt;para&gt;Checks whether the collider  is touching any of the collider(s) attached to this rigidbody or not wit ... " />
+            <marker date="1561290207546" expanded="true" signature="11934:12034" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="12214:12327" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="12333:12838" ph="///   &lt;para&gt;Checks whether any collider is touching any of the collider(s) attached to this rigidbody or not with ... " />
+            <marker date="1561290207546" expanded="true" signature="12896:12984" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="13108:13209" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="13267:13319" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="13325:13783" ph="///   &lt;para&gt;Checks whether any of the collider(s) attached to this rigidbody are touching any colliders on the sp ... " />
+            <marker date="1561290207546" expanded="true" signature="13932:14238" ph="///   &lt;para&gt;Check if any of the Rigidbody2D colliders overlap a point in space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="14282:14346" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="14352:14795" ph="///   &lt;para&gt;Calculates the minimum distance of this collider against all Collider2D attached to this Rigidbody2D. ... " />
+            <marker date="1561290207546" expanded="true" signature="14866:15211" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="15333:15451" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="15457:15917" ph="///   &lt;para&gt;Returns a point on the perimeter of all enabled Colliders attached to this Rigidbody that is closest  ... " />
+            <marker date="1561290207546" expanded="true" signature="15967:16032" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="16095:16154" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="16160:16409" ph="///   &lt;para&gt;Apply a force to the rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="16503:16562" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="16641:16716" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="16722:17014" ph="///   &lt;para&gt;Adds a force to the rigidbody2D relative to its coordinate system.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="17124:17199" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="17290:17369" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="17375:17719" ph="///   &lt;para&gt;Apply a force at a given position in space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="17841:17924" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="17987:18048" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="18054:18271" ph="///   &lt;para&gt;Apply a torque at the rigidbody's centre of mass.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="18428:18646" ph="///   &lt;para&gt;Get a local space point given the point point in rigidBody global space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="18689:18788" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="18794:19028" ph="///   &lt;para&gt;Get a global space point given the point relativePoint in rigidBody local space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="19087:19202" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="19208:19440" ph="///   &lt;para&gt;Get a local space vector given the vector vector in rigidBody global space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="19485:19586" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="19592:19840" ph="///   &lt;para&gt;Get a global space vector given the vector relativeVector in rigidBody local space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="19901:20018" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="20024:20231" ph="///   &lt;para&gt;The velocity of the rigidbody at the point Point in global space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="20282:20389" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="20395:20608" ph="///   &lt;para&gt;The velocity of the rigidbody at the point Point in local space.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="20675:20798" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="20804:21409" ph="///   &lt;para&gt;Get a list of all Colliders that overlap all Colliders attached to this Rigidbody2D.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="21499:21584" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="21745:21843" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="21932:22016" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="22192:22289" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="22295:22650" ph="///   &lt;para&gt;Retrieves all contact points for all of the Collider(s) attached to this Rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="22704:22802" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="22861:22959" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="22965:23522" ph="///   &lt;para&gt;Retrieves all contact points for all of the Collider(s) attached to this Rigidbody, with the results  ... " />
+            <marker date="1561290207546" expanded="true" signature="23607:23686" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="23776:23855" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="23861:24222" ph="///   &lt;para&gt;Retrieves all Colliders in contact with any of the Collider(s) attached to this Rigidbody.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="24273:24372" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="24428:24527" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="24533:25096" ph="///   &lt;para&gt;Retrieves all Colliders in contact with any of the Collider(s) attached to this rigidbody, with the r ... " />
+            <marker date="1561290207546" expanded="true" signature="25178:25258" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="25345:25425" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="25431:25760" ph="///   &lt;para&gt;Returns all Collider2D that are attached to this Rigidbody2D.&lt;/para&gt; ... " />
+            <marker date="1561290207546" expanded="true" signature="25824:25899" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="26159:26233" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="26518:26612" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="26618:27223" ph="///   &lt;para&gt;All the Collider2D shapes attached to the Rigidbody2D are cast into the Scene starting at each Collid ... " />
+            <marker date="1561290207546" expanded="true" signature="27335:27415" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="27560:27653" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="27795:27874" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="28021:28113" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="28230:28347" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="28353:29048" ph="///   &lt;para&gt;All the Collider2D shapes attached to the Rigidbody2D are cast into the Scene starting at each Collid ... " />
+            <marker date="1561290207546" expanded="true" signature="29216:29319" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="29536:29656" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="29829:29931" ph="{...}" />
+            <marker date="1561290207546" expanded="true" signature="30150:30269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Singleton.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/SceneLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Spear.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ArrowSpawnner.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Countdown.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Score.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/PassthroughTrigger.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/GameControl.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Bird.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Bird.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/Countdown.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/GameControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/MainMenu/MenuScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/Assets/Script/MainMenu/MenuScript.cs" />
+  </component>
+</project>
